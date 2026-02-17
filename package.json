@@ -1,0 +1,36 @@
+{
+  "name": "playable-template-pixi",
+  "version": "1.0.0",
+  "description": "A starter template for creating playable ads using PixiJS, pixi-spine and @smoud/playable-sdk with TypeScript support",
+  "scripts": {
+    "dev": "playable-scripts dev",
+    "build": "playable-scripts build"
+  },
+  "keywords": [
+    "playable",
+    "ads",
+    "template",
+    "pixi",
+    "pixijs",
+    "pixi-spine",
+    "spine",
+    "animation",
+    "webgl",
+    "2d",
+    "typescript",
+    "game"
+  ],
+  "author": "Smoud",
+  "dependencies": {
+    "@smoud/playable-sdk": "^1.0.24",
+    "pixi-spine": "^4.0.6",
+    "pixi.js": "^7.4.2"
+  },
+  "devDependencies": {
+    "@smoud/playable-scripts": "^1.2.0",
+    "prettier": "^2.7.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
