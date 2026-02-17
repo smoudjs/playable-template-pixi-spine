@@ -10,7 +10,8 @@ A starter template for creating playable ads using PixiJS with Spine animation s
 ## Demo
 
 Try out this template:
-- [View on CodePen](https://codepen.io/peter-hutsul/pen/PwoEaWR)
+- [Open in CodeSandbox](https://codesandbox.io/p/github/smoudjs/playable-template-pixi-spine/master?import=true)
+
 ## Features
 
 - PixiJS v7 integration for high-performance 2D graphics
