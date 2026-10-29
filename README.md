@@ -7,11 +7,6 @@ A starter template for creating playable ads using PixiJS with Spine animation s
 - [@smoud/playable-sdk](https://github.com/smoudjs/playable-sdk#readme) - SDK for creating playable ads with standardized events and methods
 - [@smoud/playable-scripts](https://github.com/smoudjs/playable-scripts#readme) - Build and development tools optimized for playable ads
 
-## Demo
-
-Try out this template:
-- [Open in CodeSandbox](https://codesandbox.io/p/github/smoudjs/playable-template-pixi-spine/master?import=true)
-
 ## Features
 
 - PixiJS v7 integration for high-performance 2D graphics
@@ -52,8 +47,9 @@ Try out this template:
 ## Looking for More?
 
 Check out other available templates for different frameworks and use cases:
+
 - [playable-template-base](https://github.com/smoudjs/playable-template-base) - Template base version
 - [playable-template-base-js](https://github.com/smoudjs/playable-template-base-js) - Template base version (JavaScript)
+- [playable-template-phaser](https://github.com/smoudjs/playable-template-phaser) - Template with Phaser
 - [playable-template-pixi](https://github.com/smoudjs/playable-template-pixi) - Template with PixiJS
 - [playable-template-three](https://github.com/smoudjs/playable-template-three) - Template with Three.js
-- [playable-template-phaser](https://github.com/smoudjs/playable-template-phaser) - Template with Phaser

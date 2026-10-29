@@ -22,12 +22,12 @@
   ],
   "author": "Smoud",
   "dependencies": {
-    "@smoud/playable-sdk": "^1.0.24",
+    "@smoud/playable-sdk": "^1.2.1",
     "pixi-spine": "^4.0.6",
     "pixi.js": "^7.4.2"
   },
   "devDependencies": {
-    "@smoud/playable-scripts": "^1.2.0",
+    "@smoud/playable-scripts": "^1.2.15",
     "prettier": "^2.7.1"
   },
   "engines": {
